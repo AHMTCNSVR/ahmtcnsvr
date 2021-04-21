@@ -3,7 +3,7 @@ I'm an AWS Solution Architect | Cloud & DevOps Engineer
 
 ### 🛠  What am I using?
 
-<ul> <strong>DEVOPS</strong>   <img src="https://github.com/ermeydan-coder/ermeydan-coder/blob/main/DevOps.gif" alt="devops" width=480 height=auto align="right">
+<ul> <strong>DEVOPS</strong>   <img src="https://github.com/ahmtcnsvr/ahmtcnsvr/blob/main/DevOps.gif" alt="devops" width=480 height=auto align="right">
  <li>Jenkins</li>
  <li>Git</li>
  <li>Python</li>
@@ -18,7 +18,7 @@ I'm an AWS Solution Architect | Cloud & DevOps Engineer
  <li>Prometheus</li>
  </ul>
 
-<img src="https://github.com/ermeydan-coder/ermeydan-coder/blob/main/aws.png" alt="aws" width=400 height=auto align="right">
+<img src="https://github.com/ahmtcnsvr/ahmtcnsvr/blob/main/AWS.gif" alt="aws" width=400 height=auto align="right">
 
 <ul > <strong>AWS</strong>
  <li>EC2</li>
